@@ -34,6 +34,7 @@ main{
     flex-wrap: wrap;
     width: calc((35px + (1px * 3)) * 10);
 }
+
 .grid-81{
     display: flex;
     justify-content: center;
@@ -56,7 +57,9 @@ main{
     height: 35px;
     width: 35px;
 }
-
+.box:hover{
+    background-color: rgba(0, 0, 0, 0.167);
+}
 footer{
     height: 13vh;
     display: flex;

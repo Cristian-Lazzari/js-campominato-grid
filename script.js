@@ -35,4 +35,7 @@ function(){
     }
 
 })
+function magicClick(){
+    
+}
 
